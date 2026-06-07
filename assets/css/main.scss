@@ -41,3 +41,40 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.cv-exp {
+  margin: 1.8rem 0 2.5rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid #d9dee7;
+}
+
+.cv-exp-date {
+  font-weight: 700;
+  color: #6a737d;
+  font-size: 1.15em;
+  margin-bottom: 0.45rem;
+}
+
+.cv-exp-title {
+  margin: 0.15rem 0 0.5rem;
+  font-size: 1.55em;
+  line-height: 1.25;
+  color: #24292f;
+}
+
+.cv-exp-meta {
+  margin: 0 0 0.9rem;
+  color: #6a737d;
+  font-size: 1.05em;
+  line-height: 1.5;
+}
+
+.cv-exp ul {
+  margin-top: 0.6rem;
+  padding-left: 1.25rem;
+}
+
+.cv-exp li {
+  margin-bottom: 0.6rem;
+  line-height: 1.55;
+}
