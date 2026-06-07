@@ -15,15 +15,14 @@ Feel free to connect if you share similar interests or are interested in collabo
 
 Research Interests
 ======
-- **Personalized & heterogeneous regression** — sample-specific effect estimation, latent subgroup recovery
-- **Causal inference** — treatment-effect estimation under interference and spillover, potential-outcomes methods
-- **Statistical genomics** — GWAS-based patient stratification, pathway enrichment, cross-disease genetic architecture
-- **Applied machine learning** — Bayesian computation, ensemble methods, and biomedical signal (EEG) classification
+- **Computational Neuroscience** — Generalized Trace estimitations
+- **Causal inference** — treatment-effect estimation under interference
+- **Machine Learning** — optimization & ML + Causal inference/neuroscience/biostatistics/...
+- **Biostatistics** — develop novel statistical models to solve biomedical problems like Alzheimer's heterogeneity, vaccine efficacy, malaria classification,...
 
 News
 ======
 - **2025** — Two co-authored papers on EEG-based diagnosis of cerebral malaria appeared in *Clinical Infectious Diseases* and the *American Journal of Tropical Medicine and Hygiene*.
-- **2025** — Manuscript on stratifying Alzheimer's Disease with the Heteroscedastic Personalized Regression (Het-PR) framework submitted for review.
-- **2025** — Joined UIUC as a Research Assistant in the Department of Statistics and the School of Information Sciences.
+
 
 You can find a full list of my work on the [Publications](/publications/) page and my complete background on my [CV](/cv/). Feel free to reach out at [zjh68688@gmail.com](mailto:zjh68688@gmail.com).
