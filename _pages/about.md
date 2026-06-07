@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher working at the intersection of **statistics** and **machine learning**. I am currently a Research Assistant at the [University of Illinois Urbana–Champaign](https://illinois.edu/), working with [Prof. Ruoqing Zhu](https://sites.google.com/site/teazrq/) (Department of Statistics) and [Prof. Haohan Wang](https://www.cs.cmu.edu/~haohanw/) (School of Information Sciences). I hold an M.S. in Statistics from the [University of Washington](https://www.washington.edu/) and a B.S. in Mathematics from the [University of Liverpool](https://www.liverpool.ac.uk/) (Class I Honours).
+I am an incoming UIUC CS PhD student and my advisor would be [Prof. Dean Pospisil](https://psychology.illinois.edu/directory/profile/deanp). Currently, I am a Research Assistant at the [University of Illinois Urbana–Champaign](https://illinois.edu/), working with [Prof. Ruoqing Zhu](https://sites.google.com/site/teazrq/) (Department of Statistics) and [Prof. Haohan Wang](https://www.cs.cmu.edu/~haohanw/) (School of Information Sciences). I hold an M.S. in Statistics from the [University of Washington](https://www.washington.edu/) and a B.S. in Mathematics from the [University of Liverpool](https://www.liverpool.ac.uk/) (Class I Honours). During my master's study, I was fortuned to be advised by [Prof. Bo Zhang](https://www.fredhutch.org/en/faculty-lab-directory/zhang-bo.html) (Department of Biostatistics & Fred Hutch).
 
-My research develops statistical and machine-learning methods for problems where heterogeneity, structure, and limited data make standard approaches break down. I am especially interested in **personalized / individualized modeling**, **causal inference under interference**, and **statistical genomics**, with applications to neurological and infectious diseases.
+My current research focuses on developing estimators for high-dimensional quantities in neuroscience and causal inference. Previously, I worked on personalized linear mixed effect model, developing a heteroscedastic regression framework to uncover heterogeneity in Alzheimer’s disease and cross disease associations. I also worked on microsimulation models for HIV vaccines efficacy (with Bayesian rejection and MCMC) and EEG-based disease classification using machine learning models. 
+
+Feel free to connect if you share similar interests or are interested in collaboration.
 
 Research Interests
 ======
