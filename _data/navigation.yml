@@ -1,0 +1,12 @@
+# The following is the order of the links in the header of the website.
+#
+# Removing a link prevents it from showing in the header, but does not
+# prevent the underlying page from being included in the site. Add items
+# back (e.g. Talks, Teaching, Portfolio, Blog Posts) whenever you need them.
+
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "CV"
+    url: /cv/
