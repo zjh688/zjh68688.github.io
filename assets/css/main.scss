@@ -46,13 +46,15 @@
   margin: 1.25rem 0 1.75rem;
   padding-top: 0.9rem;
   border-top: 1px solid #d9dee7;
+  font-size: 1em;
 }
 
 .cv-exp-date,
 .cv-exp-title,
 .cv-exp-meta,
 .cv-exp li {
-  font-size: 1em;
+  font-size: 1em !important;
+  line-height: 1.5;
 }
 
 .cv-exp-date {
@@ -63,22 +65,22 @@
 
 .cv-exp-title {
   margin: 0.1rem 0 0.35rem;
-  line-height: 1.35;
+  padding-bottom: 0;
+  border-bottom: 0;
   color: #24292f;
 }
 
 .cv-exp-meta {
   margin: 0 0 0.65rem;
   color: #6a737d;
-  line-height: 1.45;
 }
 
 .cv-exp ul {
   margin-top: 0.45rem;
-  padding-left: 1.15rem;
+  padding-left: 1.25rem;
 }
 
 .cv-exp li {
   margin-bottom: 0.4rem;
-  line-height: 1.5;
 }
+
