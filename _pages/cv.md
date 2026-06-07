@@ -25,7 +25,7 @@ Research Experience
 
 <h2 class="cv-exp-title">Covariate Similarity Driven Multi-Graph Approach for Treatment Effect Estimation under Interference</h2>
 
-<p class="cv-exp-meta">Research Assistant · Advisor: Prof. Ruoqing Zhu, University of Illinois Urbana–Champaign</p>
+<p class="cv-exp-meta">Research Assistant · Advisor: Ruoqing Zhu (Professor, Department of Statistics, University of Illinois Urbana–Champaign)</p>
 
 - Developed a covariate-similarity-driven multi-graph approach modeling interference via similarity graphs, for both known- and unknown-network settings.
 - Formulated multi-dimensional exposure vectors capturing heterogeneous spillovers, negative peer effects, and nonlinear interference (tanh + PReLU).
@@ -39,7 +39,7 @@ Research Experience
 
 <h2 class="cv-exp-title">Heteroscedastic Personalized Regression for Individualized Genomic Analysis</h2>
 
-<p class="cv-exp-meta">Research Assistant · Advisor: Prof. Haohan Wang, University of Illinois Urbana–Champaign</p>
+<p class="cv-exp-meta">Research Assistant · Advisor: Haohan Wang (Assistant Professor, School of Information Sciences, University of Illinois Urbana–Champaign)</p>
 
 - Developed Het-PR, reformulating personalized modeling as a mixed-effects model with sample-specific variance terms for individualized SNP effects.
 - Conducted simulations showing ~30–60% MSE reduction, 82–94% AUROC, and ~90–100% subgroup-recovery accuracy.
@@ -54,7 +54,7 @@ Research Experience
 
 <h2 class="cv-exp-title">Modeling Per-Exposure Efficacy of Immune-Based Therapies for HIV-1 Prevention</h2>
 
-<p class="cv-exp-meta">Research Assistant · Advisor: Prof. Bo Zhang, Fred Hutch / University of Washington</p>
+<p class="cv-exp-meta">Research Assistant · Advisor: Bo Zhang (Assistant Professor, Fred Hutch; Affiliate Assistant Professor, Department of Biostatistics, University of Washington)</p>
 
 - Built a microsimulation model of HIV-1 acquisition after bnAb infusion incorporating viral exposures, pharmacokinetics, and viral sensitivity.
 - Calibrated the model via Bayesian rejection sampling on AMP trial data.
@@ -69,7 +69,7 @@ Research Experience
 
 <h2 class="cv-exp-title">Classifying Cerebral vs. Non-Cerebral Malaria from EEG with Machine Learning</h2>
 
-<p class="cv-exp-meta">Research Assistant · Advisor: Prof. Bo Zhang, Fred Hutch / University of Washington</p>
+<p class="cv-exp-meta">Research Assistant · Advisor: Bo Zhang (Assistant Professor, Fred Hutch; Affiliate Assistant Professor, Department of Biostatistics, University of Washington)</p>
 
 - Conducted EDA, biomarker selection, imputation, and encoding on EEG signals.
 - Trained ensemble models including GLM, GAM, and Random Forest with ten-fold cross-validation.
