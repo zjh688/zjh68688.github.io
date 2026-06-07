@@ -27,9 +27,10 @@ Research Experience
 
 <p class="cv-exp-meta">Research Assistant · Advisor: Ruoqing Zhu (Professor, Department of Statistics, University of Illinois Urbana–Champaign)</p>
 
-- Developed a covariate-similarity-driven multi-graph approach modeling interference via similarity graphs, for both known- and unknown-network settings.
-- Formulated multi-dimensional exposure vectors capturing heterogeneous spillovers, negative peer effects, and nonlinear interference (tanh + PReLU).
-- Introduced treatment-intensity-based ATEs; ran large-scale simulations (ER and covariate-driven graphs, n = 4000) showing near-zero bias and gains over SNIPE, LS, and difference-in-means.
+- Developed a covariate similarity driven multi-graph approach that models interference through covariate-based similarity graphs, extending applicability to both known and unknown-network settings.
+- Formulated multi-dimensional exposure vectors to capture heterogeneous spillovers, negative peer effects, and nonlinear interference via linear and neural network forms (incorporating tanh + PReLU activation functions) for broader application.
+- Introduced ATEs based on treatment intensity to evaluate treatment effects under varying coverage levels, generalizing beyond traditional all-or-none contrasts.
+- Conducted large-scale simulations (ER and covariate-driven graphs, n = 4000) demonstrating that new approach achieves near-zero bias and outperforms SNIPE, LS, and difference-in-means estimators.
 
 </div>
 
@@ -41,10 +42,11 @@ Research Experience
 
 <p class="cv-exp-meta">Research Assistant · Advisor: Haohan Wang (Assistant Professor, School of Information Sciences, University of Illinois Urbana–Champaign)</p>
 
-- Developed Het-PR, reformulating personalized modeling as a mixed-effects model with sample-specific variance terms for individualized SNP effects.
-- Conducted simulations showing ~30–60% MSE reduction, 82–94% AUROC, and ~90–100% subgroup-recovery accuracy.
-- Applied Het-PR to the ADNI GWAS cohort to stratify Alzheimer's patients into cognition-linked clusters.
-- Performed pathway enrichment analysis revealing distinct architectures and a candidate Alzheimer's–epilepsy genetic axis.
+- Developed the Heteroscedastic Personalized Regression (Het-PR) framework, reformulating personalized modeling as a linear mixed-effects model with sample-specific variance terms to estimate individualized SNP effect profiles.
+- Conducted extensive simulations demonstrating that Het-PR outperforms population-level models: it reduced estimation MSE by ~30–60% and achieved 82–94% AUROC in identifying subject-specific genetic effects, while enabling recovery of latent patient subgroups (≈90–100% accuracy via hierarchical clustering).
+- Applied Het-PR to the ADNI cohort (GWAS data), stratifying Alzheimer’s patients into two genetically distinct clusters with consistently divergent cognitive performance across five domains, thereby linking fine-scale genetic signatures to the severity of cognitive impairment.
+- Identified cluster-specific SNP sets and performed pathway enrichment analysis, revealing distinct functional architectures.
+- Discovered that variants previously associated with epilepsy powerfully separate the two AD clusters, indicating a shared cross-disease genetic axis and suggesting new genetic links between Alzheimer’s and epilepsy.
 
 </div>
 
@@ -56,10 +58,10 @@ Research Experience
 
 <p class="cv-exp-meta">Research Assistant · Advisor: Bo Zhang (Assistant Professor, Fred Hutch; Affiliate Assistant Professor, Department of Biostatistics, University of Washington)</p>
 
-- Built a microsimulation model of HIV-1 acquisition after bnAb infusion incorporating viral exposures, pharmacokinetics, and viral sensitivity.
-- Calibrated the model via Bayesian rejection sampling on AMP trial data.
-- Improved inference with ABC-MCMC integrating case counts and IC80 distributions.
-- Built a [Shiny app](https://zjh68688.shinyapps.io/BayesShiny/) to simulate trial scenarios.
+- Developed a microsimulation model to predict HIV-1 acquisition risks following neutralizing antibody (bnAb) infusion, incorporating viral exposures, individual pharmacokinetics, and viral sensitivity.
+- Calibrated the model with Bayesian rejection sampling using AMP trial data, estimating key parameters governing infection risk and neutralization efficacy.
+- Enhanced inference by implementing ABC-MCMC, integrating both case counts and IC80 (virus neutralization sensitivity) distributions to improve posterior accuracy and acceptance rates.
+- Designed a [Shiny app](https://zjh68688.shinyapps.io/BayesShiny/) to simulate trial scenarios, producing efficacy and sensitivity distribution plots.
 
 </div>
 
@@ -71,10 +73,10 @@ Research Experience
 
 <p class="cv-exp-meta">Research Assistant · Advisor: Bo Zhang (Assistant Professor, Fred Hutch; Affiliate Assistant Professor, Department of Biostatistics, University of Washington)</p>
 
-- Conducted EDA, biomarker selection, imputation, and encoding on EEG signals.
-- Trained ensemble models including GLM, GAM, and Random Forest with ten-fold cross-validation.
-- Evaluated models via ROC/AUC, showing strong discrimination including retinopathy-negative cerebral malaria.
-- Co-authored two peer-reviewed papers in *Clinical Infectious Diseases* and the *American Journal of Tropical Medicine and Hygiene*.
+- Conducted exploratory data analysis (EDA) on EEG signals, including biomarker selection, missing data imputation, and categorical encoding.
+- Trained ensemble machine learning models (GLM, GAM, Random Forest) with ten-fold cross- validation across baseline, qualitative, and quantitative EEG features.
+- Evaluated predictive performance using ROC curves and AUC, showing strong discrimination between cerebral malaria (CM) and non-malarial cases, including retinopathy-negative CM.
+- Co-authored two peer-reviewed manuscripts in *Clinical Infectious Diseases* and the *American Journal of Tropical Medicine and Hygiene*.
 
 </div>
 
@@ -88,7 +90,7 @@ Publications
 Skills
 ======
 * Programming: Python, R, C++, LaTeX, Java, MATLAB
-* Methods: personalized / mixed-effects modeling, causal inference, Bayesian computation (ABC-MCMC), ensemble machine learning, statistical genomics (GWAS)
+* Methods: causal inference, Optimization, Bayesian Modeling, machine learning, linear mixed effect model, Biomedical Data Analysis
 * Languages: Mandarin Chinese (native), English (fluent)
 
 Leadership &amp; Activities
