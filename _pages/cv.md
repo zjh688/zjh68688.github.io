@@ -14,8 +14,7 @@ You can download a PDF copy of my CV [here]({{ base_path }}/files/CV_Jiahui_Zhan
 Education
 ======
 * M.S. in Statistics, University of Washington, Seattle, 2025 (GPA: 3.86/4.0)
-* B.S. with Honours in Mathematics (Class I), University of Liverpool, 2023 (Top 5%; WES-evaluated GPA 3.94/4.0)
-* B.S. with Honours in Applied Mathematics (Class I), Xi'an Jiaotong-Liverpool University, 2021 (Top 8%)
+* B.S. with Honours in Mathematics (Class I), University of Liverpool, 2023 (GPA 3.94/4.0)
 
 Research Experience
 ======
@@ -43,9 +42,6 @@ Research Experience
   * Trained ensemble models (GLM, GAM, Random Forest) with ten-fold CV; evaluated via ROC/AUC, showing strong discrimination including retinopathy-negative cerebral malaria.
   * Co-authored two peer-reviewed papers (*Clinical Infectious Diseases*; *American Journal of Tropical Medicine and Hygiene*).
 
-* **Project Team Leader**, University of Washington (Apr 2024 – Jun 2024)
-  * *Causal relationship between job-training programs and income* — Advisor: Prof. Thomas Richardson
-  * Implemented IPW, outcome regression, doubly robust, and DiD estimators on the NSW and PSID datasets; diagnosed overlap violations causing unstable ATEs in observational data.
 
 Publications
 ======
