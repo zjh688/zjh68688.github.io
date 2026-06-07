@@ -91,7 +91,7 @@ Skills
 ======
 * Programming: Python, R, C++, LaTeX, Java, MATLAB
 * Methods: causal inference, Optimization, Bayesian Modeling, machine learning, linear mixed effect model, Biomedical Data Analysis
-* Languages: Mandarin Chinese (native), English (fluent)
+* Languages: Mandarin (native), English (fluent)
 
 Leadership &amp; Activities
 ======
